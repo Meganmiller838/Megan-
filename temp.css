@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: honeydew;
+}
+
+#grad{
+    background: linear-gradient(red,blueviolet);
+    height:67px;
+}
+
+article{
+    border-style: solid;
+    position: absolute;
+    background-color: lightcoral;
+    
+}
